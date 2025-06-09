@@ -57,6 +57,76 @@ To set up the development environment, ensure you have the following packages:
 - **nesbot/carbon**: ^2.56
 - **ext-openssl**: *
 
+### Required PHP Modules
+
+Make sure the following PHP modules are enabled in your environment:
+
+<details>
+<summary>Click to expand the list of required PHP modules</summary>
+
+<pre>
+[PHP Modules]
+bcmath
+calendar
+Core
+ctype
+curl
+date
+dom
+exif
+FFI
+fileinfo
+filter
+ftp
+gd
+gettext
+gmp
+hash
+iconv
+imagick
+imap
+intl
+json
+libxml
+mbstring
+mysqli
+mysqlnd
+openssl
+pcntl
+pcre
+PDO
+pdo_mysql
+Phar
+posix
+random
+readline
+Reflection
+session
+shmop
+SimpleXML
+soap
+sockets
+sodium
+SPL
+standard
+sysvmsg
+sysvsem
+sysvshm
+tokenizer
+xml
+xmlreader
+xmlrpc
+xmlwriter
+xsl
+Zend OPcache
+zip
+zlib
+
+[Zend Modules]
+Zend OPcache
+</pre>
+</details>
+
 ## License
 
 The HBL Payment Gateway is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
