@@ -1,5 +1,3 @@
-<p align="center"><a href="https://www.himalayanbank.com/" target="_blank"><img src="https://www.himalayanbank.com/images/HBL-Logo.jpg" width="400" alt="HBL Payment Gateway Logo"></a></p>
-
 ## About HBL Payment Gateway
 
 The HBL Payment Gateway provides a secure and efficient way to process payments online. It supports the latest encryption standards and is designed to integrate seamlessly with your existing systems. Key features include:
@@ -26,13 +24,12 @@ Use the following credentials for testing:
 ### Test Cards
 
 - **Card Name**: ALOK CHAUDHARY
-  - **Card Number**: 5399 3300 0001 2640
-  - **Expiry Date**: 04/2027
-  - **CVV**: 734
-
-  - **Card Number**: 4101 4900 0005 7763
-  - **Expiry Date**: 09/27
-  - **CVV**: 344
+- **Card Number**: 5399 3300 0001 2640
+- **Expiry Date**: 04/2027
+- **CVV**: 734
+- **Card Number**: 4101 4900 0005 7763
+- **Expiry Date**: 09/27
+- **CVV**: 344
 
 ## Production Setup
 
